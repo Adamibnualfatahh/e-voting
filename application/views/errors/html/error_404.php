@@ -65,7 +65,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 Kelompok 1 <br class="d-sm-block d-none"> XII RPL A
             </p>
             <div class="d-flex justify-content-center">
-                <a href="/evoting2"><button class="btn btn-back d-inline-flex text-white border-0">
+                <a href="/E-voting"><button class="btn btn-back d-inline-flex text-white border-0">
                     Back to Homepage
                 </button></a>
             </div>

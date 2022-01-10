@@ -4,8 +4,8 @@
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
                         <h1 class="h3 mb-0 text-gray-800"><?php echo $title?></h1>
                         <div class="row">
-                            <div class="col-6 col-sm-4"><a href="/evoting2/laporanpdf/dua"><button class="btn btn-info btn-sm" >Cetak data Sudah Memilih</button></a></div>
-                            <div class="col-6 col-sm-4"> <a href="/evoting2/laporanpdf/tiga"><button class="btn btn-danger btn-sm" > Cetak data Belum Memilih   </button></a></div>
+                            <div class="col-6 col-sm-4"><a href="/E-voting/laporanpdf/dua"><button class="btn btn-info btn-sm" >Cetak data Sudah Memilih</button></a></div>
+                            <div class="col-6 col-sm-4"> <a href="/E-voting/laporanpdf/tiga"><button class="btn btn-danger btn-sm" > Cetak data Belum Memilih   </button></a></div>
                         </div>
                         <!-- Button trigger modal -->
                         

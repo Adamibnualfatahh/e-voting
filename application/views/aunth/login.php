@@ -29,7 +29,7 @@
                 <?= form_error('password','<small class="text-danger pl-3>"','</small>');?>
             </div>
             <div>
-                Belum Punya Akun? <a href="/evoting2/evoting/register/">Buat Sekarang</a>
+                Belum Punya Akun? <a href="/E-voting/evoting/register/">Buat Sekarang</a>
             </div>
             <div>
                 <button type="submit" name="login" class="btn btn-block create-account">Masuk</button>

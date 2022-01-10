@@ -1,4 +1,4 @@
-<footer class="footer">Kelompok I XII RPL A  ||  <a href="/evoting2/index.php/about" style="text-decoration: none; ">About</a> </footer>
+<footer class="footer">Kelompok I XII RPL A  ||  <a href="/E-voting/index.php/about" style="text-decoration: none; ">About</a> </footer>
     <!-- footer -->
     <!-- Optional JavaScript; choose one of the two! -->
 
